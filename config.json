@@ -1,0 +1,9 @@
+{
+    "editor@path": "%programfiles%/GameMaker-Beta/",
+    "runtime@path": "%programdata%/GameMakerStudio2-Beta/Cache/runtimes/",
+    "runtime@version": "2023.600.0.382",
+    "project@path": "%runtime@path%/runtime-%runtime@version%/bin/projecttool/windows/x64/projecttool.exe",
+    "toolchain@path": "%systemdrive%/.gmpm",
+    "toolchain@type": "Release",
+    "toolchain@triple": "x86_86-pc-windows-msvc"
+}
